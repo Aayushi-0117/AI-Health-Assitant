@@ -1,4 +1,4 @@
-# AI-Health-Assitant
+# AI-Health-Assistant
 # Project Overview
 The AI Health Assistant is a simple Python-based 
 application that provides basic health awareness
